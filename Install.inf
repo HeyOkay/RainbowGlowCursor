@@ -1,0 +1,89 @@
+; Rainbow Glow - all contours animated
+[Version]
+Signature="$CHICAGO$"
+Provider="Custom cursor theme"
+
+[DefaultInstall]
+CopyFiles=Cursor.Files
+AddReg=Cursor.Scheme
+
+[DestinationDirs]
+Cursor.Files=10,"Cursors\RainbowGlowDarkGray"
+
+[Cursor.Scheme]
+HKCU,"Control Panel\Cursors\Schemes","Rainbow Glow",0x00020000,"%10%\Cursors\RainbowGlowDarkGray\Normal Select.ani,%10%\Cursors\RainbowGlowDarkGray\Help Select.ani,%10%\Cursors\RainbowGlowDarkGray\Working In Background.ani,%10%\Cursors\RainbowGlowDarkGray\Busy.ani,%10%\Cursors\RainbowGlowDarkGray\Precision Select.ani,%10%\Cursors\RainbowGlowDarkGray\Text Select.ani,%10%\Cursors\RainbowGlowDarkGray\Handwriting.ani,%10%\Cursors\RainbowGlowDarkGray\Unavailable.ani,%10%\Cursors\RainbowGlowDarkGray\Vertical Resize.ani,%10%\Cursors\RainbowGlowDarkGray\Horizontal Resize.ani,%10%\Cursors\RainbowGlowDarkGray\Diagonal Resize 1.ani,%10%\Cursors\RainbowGlowDarkGray\Diagonal Resize 2.ani,%10%\Cursors\RainbowGlowDarkGray\Move.ani,%10%\Cursors\RainbowGlowDarkGray\Alternate Select.ani,%10%\Cursors\RainbowGlowDarkGray\Link Select.ani,%10%\Cursors\RainbowGlowDarkGray\Location Select.ani,%10%\Cursors\RainbowGlowDarkGray\Person Select.ani"
+
+[Cursor.Files]
+"Alias.ani"
+"Alternate Select.ani"
+"Busy Star.ani"
+"Busy Waiting.ani"
+"Busy.ani"
+"Cell.ani"
+"ColResize.ani"
+"ColSelect.ani"
+"Copy.ani"
+"Diagonal Resize 1.ani"
+"Diagonal Resize 2.ani"
+"Grab.ani"
+"Grabbing.ani"
+"Handwriting.ani"
+"Help Select.ani"
+"Horizontal Resize.ani"
+"Inverted.ani"
+"Link Select.ani"
+"Location Select.ani"
+"Move.ani"
+"Normal Select.ani"
+"Person Select.ani"
+"Precision Select.ani"
+"RowResize.ani"
+"RowSelect.ani"
+"SelectionBar.ani"
+"Text Select.ani"
+"Unavailable.ani"
+"Universal.ani"
+"Vertical Resize.ani"
+"VerticalText.ani"
+"Working In Background.ani"
+"ZoomIn.ani"
+"ZoomOut.ani"
+
+[SourceDisksNames]
+1="Rainbow Glow",,,
+
+[SourceDisksFiles]
+"Alias.ani"=1
+"Alternate Select.ani"=1
+"Busy Star.ani"=1
+"Busy Waiting.ani"=1
+"Busy.ani"=1
+"Cell.ani"=1
+"ColResize.ani"=1
+"ColSelect.ani"=1
+"Copy.ani"=1
+"Diagonal Resize 1.ani"=1
+"Diagonal Resize 2.ani"=1
+"Grab.ani"=1
+"Grabbing.ani"=1
+"Handwriting.ani"=1
+"Help Select.ani"=1
+"Horizontal Resize.ani"=1
+"Inverted.ani"=1
+"Link Select.ani"=1
+"Location Select.ani"=1
+"Move.ani"=1
+"Normal Select.ani"=1
+"Person Select.ani"=1
+"Precision Select.ani"=1
+"RowResize.ani"=1
+"RowSelect.ani"=1
+"SelectionBar.ani"=1
+"Text Select.ani"=1
+"Unavailable.ani"=1
+"Universal.ani"=1
+"Vertical Resize.ani"=1
+"VerticalText.ani"=1
+"Working In Background.ani"=1
+"ZoomIn.ani"=1
+"ZoomOut.ani"=1
